@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hacker Times</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <!-- NEWSPAPER CONTAINER -->
-  <div class="newspaper-container">
-    <!-- header -->
-    <header>
-      <div class="date">JANUARY 1, 1970</div>
-      <h1>The Hacker Times</h1>
-    </header>
     <!-- navigation -->
     <nav>
       <ul>
